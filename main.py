@@ -12,7 +12,7 @@ def regole(bot, update):
 
 def main():
   # Create Updater object and attach dispatcher to it
-  updater = Updater('564345247:AAEwta1VMCR4vP_Mp_H8y72X5CsjPvbYK5E')
+  updater = Updater('XXXX')
   dispatcher = updater.dispatcher
   print("Bot started")
 
